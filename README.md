@@ -1,30 +1,43 @@
-# 👋 Hi Everyone, Marcell here!
+## 🤵 About Me
+I’m a passionate developer with a strong interest in **Game Programming**, but I also love exploring new technologies!
 
-## 📝 About Me
-I’m a passionate developer who have passion in Game Programming, but also like to explore other new stuffs!  
-Currently exploring **Artificial Intelligence**, **Mobile Development with Kotlin**, and **Unity**  
-I enjoy learning new thing, not only in my comfront zone!
-Things that i've try were :
-**- Developing Desktop Application with Tauri and Rust**
-**- Web Programming with Go and React with GRPC implementation**
-And i can't wait to learn more things that i've never learn before 😉
+Currently diving into :
+- 🤖 Artificial Intelligence
+- 📱 Mobile Development with Kotlin
+- 🎮 Unity
+
+I enjoy learning outside of my comfort zone and experimenting with different fields.  
+
+Some things I’ve tried so far:
+- 🎮 Many game projects with **Unity and C#**
+- 🖥️ Developing Desktop Applications with **Tauri + Rust**  
+- 🌐 Web Programming with **Go + React + gRPC**  
+
+And I can’t wait to learn even more new things! 😉
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Project 1: Last Stand
-🎮 A Unity-based pixelated game about fighting *Brain-rot* enemies with towers made by professor.  
-🔗 [View Repository](https://github.com/MarcellSutiono/Last-Stand)
-
----
-
-### 🔹 Project 2: Immortal Warrior
-💻 A Unity-based 2d platform fighting 
-🔗 [View Repository](https://github.com/MarcellSutiono/Immortal-Warrior)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://via.placeholder.com/250x150?text=Last+Stand" width="250" height="150" alt="Last Stand"/><br>
+      <b>Last Stand</b><br>
+      🎮 A Unity-based pixelated game about fighting <i>Brain-rot</i> enemies with towers made by a professor.<br>
+      <a href="https://github.com/MarcellSutiono/Last-Stand">🔗 View Repository</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://via.placeholder.com/250x150?text=Immortal+Warrior" width="250" height="150" alt="Immortal Warrior"/><br>
+      <b>Immortal Warrior</b><br>
+      ⚔️ A Unity-based 2D platform fighting game.<br>
+      <a href="https://github.com/MarcellSutiono/Immortal-Warrior">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: [emailkamu@example.com](marcell.sutiono@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/username](https://www.linkedin.com/in/marcell-sutiono-a76664310/)  
+- ✉️ Email : [marcell.sutiono@gmail.com](mailto:marcell.sutiono@gmail.com)  
+- 💼 LinkedIn : [Marcell Sutiono](https://www.linkedin.com/in/marcell-sutiono-a76664310/)  
