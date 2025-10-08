@@ -22,7 +22,7 @@ And I can’t wait to learn even more new things! 😉
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://via.placeholder.com/250x150?text=Last+Stand" width="250" height="150" alt="Last Stand"/><br>
+      <img src="./assets/LastStand/title_laststand.png" width="250" height="150" alt="Last Stand"/><br>
       <b>Last Stand</b><br>
       🎮 A Unity-based pixelated game about fighting <i>Brain-rot</i> enemies with towers made by a professor.<br>
       <a href="https://github.com/MarcellSutiono/Last-Stand">🔗 View Repository</a>
