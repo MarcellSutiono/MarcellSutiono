@@ -31,11 +31,17 @@ Some things I’ve tried so far:
     </td>
   </tr>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <img src="./assets/TrashCatcher/Trash_Catcher.png" width="250" height="150" alt="Last Stand"/><br>
       <b>Trash Catcher</b><br>
-      🎮 A Unity-based serious game about the importance of throw garbage in its place according to its type.<br>
+      🚮 A Unity-based serious game about the importance of throw garbage in its place according to its type.<br>
       <a href="https://github.com/DEV4705/Trash_Catcher">🔗 View Repository</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="" width="250" height="150" alt="Last Stand"/><br>
+      <b>ON PROGRESS</b><br>
+      ⚠️ ON PROGRESS.<br>
+      <a href="">⚠️ ON PROGRESS</a>
     </td>
   </tr>
 </table>
