@@ -3,17 +3,13 @@ I’m a passionate developer with a strong interest in **Game Programming**, but
 
 Currently diving into :
 - 🤖 Artificial Intelligence
-- 📱 Mobile Development with Kotlin
 - 🎮 Unity
-
-I enjoy learning outside of my comfort zone and experimenting with different fields.  
 
 Some things I’ve tried so far:
 - 🎮 Many game projects with **Unity and C#**
 - 🖥️ Developing Desktop Applications with **Tauri + Rust**  
-- 🌐 Web Programming with **Go + React + gRPC**  
-
-And I can’t wait to learn even more new things! 😉
+- 🌐 Web Programming with **Go + React + gRPC**
+- 📱 Mobile Apps Development with **Android Studio**
 
 ---
 
@@ -28,7 +24,7 @@ And I can’t wait to learn even more new things! 😉
       <a href="https://github.com/MarcellSutiono/Last-Stand">🔗 View Repository</a>
     </td>
     <td align="center" width="50%">
-      <img src="https://via.placeholder.com/250x150?text=Immortal+Warrior" width="250" height="150" alt="Immortal Warrior"/><br>
+      <img src="./assets/ImmortalWarrior/immortal_warrior.jpg" width="250" height="150" alt="Immortal Warrior"/><br>
       <b>Immortal Warrior</b><br>
       ⚔️ A Unity-based 2D platform fighting game.<br>
       <a href="https://github.com/MarcellSutiono/Immortal-Warrior">🔗 View Repository</a>
