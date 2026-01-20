@@ -38,10 +38,10 @@ Some things I’ve tried so far:
       <a href="https://github.com/DEV4705/Trash_Catcher">🔗 View Repository</a>
     </td>
     <td align="center" width="50%">
-      <img src="" width="250" height="150" alt="Last Stand"/><br>
-      <b>ON PROGRESS</b><br>
-      ⚠️ ON PROGRESS.<br>
-      <a href="">⚠️ ON PROGRESS</a>
+      <img src="./assets/DeepCave/DeepCave.png" width="250" height="150" alt="Last Stand"/><br>
+      <b>Deep Cave</b><br>
+      🪨 A Unity-based platformer about a person who trapped inside a cave and need to find 4 gems to open the gateway outside<br>
+      <a href="https://github.com/MarcellSutiono/Deep-Cave">🔗 View Repository</a>
     </td>
   </tr>
 </table>
