@@ -1,16 +1,5 @@
 ## 🤵 About Me
 I’m a passionate developer with a strong interest in **Game Programming**, but I also love exploring new technologies!
-
-Currently diving into :
-- 🤖 Artificial Intelligence
-- 🎮 Unity
-
-Some things I’ve tried so far:
-- 🎮 Many game projects with **Unity and C#**
-- 🖥️ Developing Desktop Applications with **Tauri + Rust**  
-- 🌐 Web Programming with **Go + React + gRPC**
-- 📱 Mobile Apps Development with **Android Studio**
-
 ---
 
 ## 🚀 Featured Projects
